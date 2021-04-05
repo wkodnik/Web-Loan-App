@@ -19,7 +19,7 @@ public class AddUser {
 		WebDriver driver = new ChromeDriver();
 
 		// And now use this to visit LMS login page
-		// driver.get("http://test-hitekschool.com/lms/loans/2108");
+		
 
 		// Create instance of class Login to use its LMSLogin method in our Add User
 		// scenario
